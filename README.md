@@ -10,8 +10,8 @@ REPRESENTING QR-CODE-COMPONENT USING HTML AND CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here.](https://github.com/Prasad-mutnale/qr-code-component/blob/main/index.html)
+- Live Site URL: [Click here.](https://prasad-mutnale.github.io/qr-code-component/#)
 <!--
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
